@@ -4,7 +4,7 @@
 
 releaseType: stable
 #image: quarkus-microservice
-image: annie-solo-microservice:9
+image: annie-solo-microservice:7
 ecr: 219099013464.dkr.ecr.us-west-2.amazonaws.com
 #replicaCount: 1
 #
